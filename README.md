@@ -1,1 +1,1 @@
-# https://mjkim65.github.io-cs355
+# https://github.com/mjkim65/mjkim65.github.io-cs355.git
