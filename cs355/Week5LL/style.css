@@ -1,0 +1,34 @@
+/*
+The primary stylesheet for Oolith. This sheet pulls in all the components in order of appearance.
+*/
+
+@import url("CSS/reset.css");
+@import url("CSS/accessibility.css");
+@import url("CSS/layout.css");
+@import url("CSS/typography.css");
+@import url("CSS/masthead.css");
+@import url("CSS/navigation.css");
+@import url("CSS/images.css");
+@import url("CSS/banner.css");
+@import url("CSS/boxes.css");
+@import url("CSS/intro.css");
+@import url("CSS/levels.css");
+@import url("CSS/footer.css");
+@import url("CSS/single.css");
+
+#return {
+  margin: auto;
+  width: fit-content;
+  background-color: rgb(185, 205, 211);
+  border-radius: 0.5em;
+  padding: 7px;
+  font-size: 1em;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+#return:hover {
+  background-color: rgb(143, 147, 165);
+}

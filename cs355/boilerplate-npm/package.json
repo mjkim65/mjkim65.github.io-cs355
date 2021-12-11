@@ -1,0 +1,22 @@
+{
+	"author": "Daniel Yoh",
+	"description": "My project file.  I've worked on this for only 2 minutes and this is already like a million times better and more engaging than the LinkedIn Learning.",
+	"keywords": [
+		"freecodecamp",
+		"related",
+		"words"
+	],
+	"license": "Drivers",
+	"version": "1.2.0",
+	"name": "fcc-learn-npm-package-json",
+	"dependencies": {
+		"express": "^4.14.0"	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
